@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Abdullah-Al-Zabir
-- 👀 I’m interested in Mathematics
-- 🌱 I’m currently learning at SGVA
-- 📫 Mail me at azabir137+dev@gmail.com
+# 👋 Hi, I'm Abdullah Al Zabir  
 
-<!---
-Abdullah-Al-Zabir/Abdullah-Al-Zabir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 🏫 Currently studying at **SGVA**  
+- 🔢 Passionate about **Mathematics**  
+- 💡 Always eager to **learn and explore**  
+- 📬 Reach me at **[azabir137+dev@gmail.com](mailto:azabir137+dev@gmail.com)**  
+
+## 🛠️ Tech Stack  
+- 🔹 **Languages:** Python, JavaScript, C  
+- 🔹 **Web Development:** HTML, CSS, Firebase  
+- 🔹 **Tools & Platforms:** Git, GitHub, Acode, Termux  
+
+## 🌟 GitHub Stats  
+![Zabir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Al-Zabir&show_icons=true&theme=radical)  
+
+---
+
+🔗 **Let's Connect:**  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zabir78)
